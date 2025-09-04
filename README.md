@@ -1,4 +1,4 @@
-# SSB
+<img width="1919" height="1196" alt="EXP 3 212224060101" src="https://github.com/user-attachments/assets/0ef90c70-bc3d-44c6-bcf1-21e43dcc4a3d" /># SSB
 
 EXP NO: 3	SSB-SC-AM MODULATION using SCILAB
 
@@ -54,6 +54,8 @@ Model Waveform
 Program
 
 OUTPUT WAVEFORM
+<img width="1919" height="1196" alt="EXP 3 212224060101" src="https://github.com/user-attachments/assets/9c19021e-7a0f-4e10-872d-abfb41fc526f" />
+
 
 TABULATION
 
