@@ -79,7 +79,7 @@ OUTPUT WAVEFORM
 <img width="1919" height="1196" alt="EXP 3 212224060101" src="https://github.com/user-attachments/assets/ffe3b42c-416b-4dee-9ce0-28c2898bff51" />
 
 TABULATION
-![EXP 3 TABLE AC](https://github.com/user-attachments/assets/8fa66a41-31ad-4df8-bf8a-171df5090245)
+![SSB](https://github.com/user-attachments/assets/4dfb5ad7-1326-4dde-a238-f133f0d7aa09)
 
 
 
